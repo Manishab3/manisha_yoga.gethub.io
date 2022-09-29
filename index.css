@@ -11,13 +11,12 @@
 }
 .intro_yoga{
     font-size: 20px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin: 100px;
 }
 
 .main-bg-container {
     background-image: url("yoga-bg.png");
-    height: 100vh;
+    height: auto;
     background-size: cover;
     font-family: Roboto;
 }
